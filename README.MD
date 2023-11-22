@@ -463,7 +463,7 @@ PostMan의 오픈소스 서비스를 개발해보자
 | [강수민](https://github.com/Jade-Good) | [김승용](https://github.com/kimsy98) | [김재원](https://github.com/Kanaloa21) | [조성락(팀장)](https://github.com/sju3358) | [천원준](https://github.com/wonjunchun) | [최경인](https://github.com/Fizioo0102) |
 | :------------------------------------: | :----------------------------------: | :------------------------------------: | :----------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 |      ![강수민](./img/강수민.png)       |     ![김승용](./img/김승용.png)      |      ![김재원](./img/김재원.png)       |        ![조성락](./img/조성락.png)         |       ![천원준](./img/천원준.png)       |       ![최경인](./img/최경인.jpg)       |
-|  FE Leader<br>BackEnd<br>PM<br>Design  |         BackEnd<br>FrontEnd          |         FrontEnd<br>Extension          |      BackEnd<br>FrontEnd<br>DataBase       |      BackEnd<br>FrontEnd<br>Infra       |           BackEnd<br>FrontEnd           |
+|  FE Leader<br>BackEnd<br>PM<br>Design  |         BackEnd<br>FrontEnd          |         FrontEnd<br>Extension          |      BackEnd<br>FrontEnd<br>Security       |      BackEnd<br>FrontEnd<br>Infra       |           BackEnd<br>FrontEnd           |
 
 ### 팀원 역할 상세
 
